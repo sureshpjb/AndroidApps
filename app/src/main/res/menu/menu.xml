@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/addPhNumMenuItem"
+        android:icon="@drawable/ic_setting_light"
+        android:title="Edit Primary Contact"/>
+    <item android:id="@+id/addPhNumsMenuItem"
+        android:icon="@drawable/ic_setting_light"
+        android:title="Add More Contacts"/>
+</menu>
